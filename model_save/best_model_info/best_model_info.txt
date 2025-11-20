@@ -1,0 +1,46 @@
+blur:
+  精确率 (Precision): 0.8947
+  召回率 (Recall): 0.5312
+  F1-score: 0.6667
+  AUC: 0.9138
+  准确率 (Accuracy): 0.5312
+
+incomplete exposure:
+  精确率 (Precision): 0.7500
+  召回率 (Recall): 0.4167
+  F1-score: 0.5357
+  AUC: 0.7994
+  准确率 (Accuracy): 0.4167
+
+normal:
+  精确率 (Precision): 0.6429
+  召回率 (Recall): 1.0000
+  F1-score: 0.7826
+  AUC: 0.9910
+  准确率 (Accuracy): 1.0000
+
+reflection:
+  精确率 (Precision): 0.8750
+  召回率 (Recall): 0.7778
+  F1-score: 0.8235
+  AUC: 0.9526
+  准确率 (Accuracy): 0.7778
+
+
+总体准确率（四分类）: 0.7099
+宏平均F1-score（四分类）: 0.7021
+加权平均F1-score（四分类）: 0.6892
+
+二分类结果（normal vs abnormal）:
+normal:
+  精确率 (Precision): 0.6667
+  召回率 (Recall): 1.0000
+  F1-score: 0.8000
+abnormal:
+  精确率 (Precision): 1.0000
+  召回率 (Recall): 0.6494
+  F1-score: 0.7874
+  AUC (abnormal 作为正类): 0.9910
+  二分类总体准确率: 0.7939
+  宏平均F1-score（二分类）: 0.7937
+  加权平均F1-score（二分类）: 0.7926

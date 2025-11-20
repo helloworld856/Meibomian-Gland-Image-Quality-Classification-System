@@ -1,0 +1,5 @@
+best_model_1: accuracy 0.8342,  f1 score 0.8342
+best_model_2: accuracy 0.8289,  f1 score 0.8288
+best_model_3: accuracy 0.8396,  f1 score 0.8378
+best_model_4: accuracy 0.8289,  f1 score 0.8289
+best_model_5: accuracy 0.8871,  f1 score 0.8879
